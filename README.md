@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jack Xiong
+- 👀 I’m interested in iOS programming 
+- 🌱 I’m currently learning swift 5
+- 💞️ I’m looking to collaborate on iOS 15 app
+- 📫 How to reach me jack.xiong@sgrpower.com
